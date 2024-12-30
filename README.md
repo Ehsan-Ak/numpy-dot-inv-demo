@@ -19,5 +19,4 @@ To install the necessary libraries, you can use the following commands:
 
 ```bash
 pip install numpy
-pip install mkl
 
