@@ -20,3 +20,25 @@ To install the necessary libraries, you can use the following commands:
 ```bash
 pip install numpy
 
+Benchmark Calculations
+In this benchmark, we perform the following calculations:
+
+Multiplication of two square matrices of equal dimensions
+
+Inversion of a square matrix
+
+Matrix Sizes
+For both tasks, use matrices of sizes 10000 and 20000.
+
+Using the time Library
+To measure the execution time, use the time library in Python.
+
+Test Results
+I ran this test on my system, and the results are shown in the images below:
+
+Processor: Intel i5-4300M
+
+Memory: 16GB RAM
+
+
+References
