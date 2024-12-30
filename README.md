@@ -1,7 +1,7 @@
-# numpy-dot-inv-demo
+# numpy-dot-inv-demo Benchmarking BLAS Implementations in NumPy
+
 Calculating the time to multiply two square matrices and the inverse of a square matrix of dimensions 20,000
 
-# Benchmarking BLAS Implementations in NumPy
 
 This project benchmarks various BLAS implementations in the NumPy library. For installing different linear algebra accelerator libraries along with NumPy, you can refer to the NumPy installation guide.
 
